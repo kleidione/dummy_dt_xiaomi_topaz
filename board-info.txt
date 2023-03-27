@@ -1,0 +1,1 @@
+require version-baseband=1.1.c1-00053-DIVAR_GENSP_PACK-1.30410.2
